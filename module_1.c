@@ -14,3 +14,14 @@ int minimum value 10^9 == 1000000000
 long long int minimum value 10^18
 variable name can be start with _ (underscore) like _sabbir
 */
+#include <stdio.h>
+    int main()
+    {
+        int x=0;
+        if (x=1) {
+            printf("hi");
+        }
+        else {
+            printf("how are u");
+        }
+    }
