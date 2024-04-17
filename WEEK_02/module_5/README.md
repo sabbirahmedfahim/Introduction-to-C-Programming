@@ -1,0 +1,6 @@
+- [Welcome for you with Conditions](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I)
+- [Multiples](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/J)
+- [Char](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/N)
+- [First Digit !](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/P)
+- [Capital or Small or Digit](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/M)
+- [Max and Min](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K)
