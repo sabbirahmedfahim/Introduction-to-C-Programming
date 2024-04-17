@@ -1,1 +1,6 @@
-[Codeforces Problem Link](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/A)
+[Summation](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/A)  
+[Searching](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/B)  
+[Replacement](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/C)  
+[Positions in array](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/D)  
+[Lowest Number](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/E)  
+[Reversing](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/F)
