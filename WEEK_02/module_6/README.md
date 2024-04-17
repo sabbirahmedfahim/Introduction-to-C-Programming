@@ -1,0 +1,6 @@
+- [Even Numbers](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/B)
+- [Even, Odd, Positive and Negative](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/C)
+- [Fixed Password (EOF)](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/D)
+- [Max](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E)
+- [Multiplication Table](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/F)
+- [Digits](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Q)
