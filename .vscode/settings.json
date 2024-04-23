@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "upper_lowercase_c": "c"
+        "upper_lowercase_c": "c",
+        "random": "c"
     }
 }
