@@ -2,6 +2,7 @@
     "files.associations": {
         "upper_lowercase_c": "c",
         "random": "c",
-        "algorithm": "c"
+        "algorithm": "c",
+        "cmath": "c"
     }
 }
