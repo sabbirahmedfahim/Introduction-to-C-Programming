@@ -1,0 +1,5 @@
+- [Replace MinMax](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/M)
+- [Way Too Long Words](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/F)
+- [Conversion](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/G)
+- [Palindrome](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/I)
+- [Strings](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/D)
