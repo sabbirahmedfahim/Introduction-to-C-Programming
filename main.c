@@ -1,11 +1,14 @@
 #include <stdio.h>
-int sum(int x, int y)
-{
-    int res = x + y;
-    return res;
-}
+#include <string.h>
 int main()
 {
-    sum(5, 6);
+    char ch;
+    char stng[100];
+    char sen_stng[100];
+    scanf("%c", &ch);
+    scanf("%s", &stng);
+    printf("%c\n", ch);
+    printf("%s\n", stng);
+
     return 0;
 }

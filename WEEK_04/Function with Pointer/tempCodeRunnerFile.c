@@ -1,0 +1,2 @@
+
+        printf("%p ", &arr[i]);

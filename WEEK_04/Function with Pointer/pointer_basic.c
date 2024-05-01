@@ -16,11 +16,5 @@ int main()
     printf("%d\n", *p);
     x = 99;
     printf("%d\n", *p);
-    int *ptr2 = p;
-    printf("See!! %d\n\n", *ptr2);
-
-    printf("size of x: %d\n", sizeof(x));
-    printf("size of x: %d\n", sizeof(*p));
-    printf("size of p: %d\n", sizeof(*p));
     return 0;
 }
