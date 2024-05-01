@@ -1,0 +1,3 @@
+- [Create A New String](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/A)
+- [Let's use Getline](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/B)
+- [Count](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/E)
