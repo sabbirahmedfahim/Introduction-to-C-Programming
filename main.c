@@ -1,18 +1,10 @@
-#include<stdio.h>
-
-void sum(void) 
+#include <stdio.h>
+void fun()
 {
-    int n;
-    scanf("%d", &n);
-    int arr[n];
-    for (int i = 0; i < n; i++)
-    {
-        scanf("%d", &arr[i]);
-    }
-    
+    printf("fun\n");
+    fun();
 }
 int main()
 {
-    sum();
-    return 0;
+    fun();
 }
