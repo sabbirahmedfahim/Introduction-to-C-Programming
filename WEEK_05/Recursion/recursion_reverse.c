@@ -1,12 +1,12 @@
-// magic :D 
+// Magic :D 
 #include <stdio.h>
 
 void reverse_recursion(int i)
 {
     if (i == 6) return;
+    printf("%d\n", i);
     reverse_recursion(i + 1); 
-    printf("%d ", i);
-    
+    printf("%d ", i); 
 }
 
 int main()
