@@ -7,7 +7,7 @@ int k = 0, l=0;
 int m, n;
 void hey()
 {
-    if (k < m)
+    if (k < m) //it is not the formal way. if (k==m) return; use the type
     {
         printf("Hey\n");
         k++;
