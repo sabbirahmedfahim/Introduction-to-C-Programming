@@ -4,7 +4,6 @@ int len_recursion(char arr[], int i)
 {
     if (arr[i] == '\0') return 0;
     
-    printf("%d ", i);
     return len_recursion(arr, i + 1)+1; //buji nai still
 }
 
