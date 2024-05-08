@@ -4,7 +4,7 @@ int len_recursion(char arr[], int i)
 {
     if (arr[i] == '\0') return 0;
     
-    return len_recursion(arr, i + 1)+1; //buji nai still
+    return len_recursion(arr, i + 1)+1; 
 }
 
 int main()
