@@ -3,7 +3,7 @@
 // int main()
 // {
 //     int n;
-//     while(scanf("%d",&n) != EOF)
+//     while(scanf("%d",&n) != EOF) //EOF means End of File
 //     {
 //         if(n==1999)
 //         {
@@ -18,7 +18,7 @@
 //     return 0;
 // }
 
-// how i maked i shortcut (it is also accepted in codeforces)
+// how i maked a shortcut (it is also accepted in codeforces)
 #include <stdio.h>
 int main()
 {

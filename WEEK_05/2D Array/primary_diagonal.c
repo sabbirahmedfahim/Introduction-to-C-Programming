@@ -3,10 +3,7 @@
 int main()
 {
     int row, col;
-    printf("Enter row:\n");
-    scanf("%d", &row);
-    printf("Enter column:\n");
-    scanf("%d", &col);
+    scanf("%d %d", &row, &col);
 
     int flag = 0;
     if (row == col)
@@ -25,7 +22,6 @@ int main()
         {
             break;
         }
-        
         for (int j = 0; j < col; j++)
         {
             scanf("%d", &arr[i][j]);
