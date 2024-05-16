@@ -1,0 +1,1 @@
+- [three doors](https://codeforces.com/problemset/problem/1709/A)
