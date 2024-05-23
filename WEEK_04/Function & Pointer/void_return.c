@@ -4,7 +4,7 @@ void name(char name1[100], char name2[100])
 {
     return;
     //we cannot use return inSide void but we can call return without
-    // any value. it worked here like a "break" statement.
+    // any value. it workes here like a "break" statement.
     printf("%s %s", name1, name2); 
 }
 int main()

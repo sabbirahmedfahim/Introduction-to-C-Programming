@@ -1,8 +1,10 @@
 #include <stdio.h>
 
-int sum(int a, int b)
+int sum(int x, int y)
 {
-    int ans = a + b;
+    int ans = x + y;
+    printf("%d", ans);
+    // return 0; //see magic
     return ans;
 }
 int main()
