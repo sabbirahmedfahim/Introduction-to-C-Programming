@@ -2,8 +2,8 @@
 // summation of maximum k-number elements
 // hit the word- Maximum Summation 
 int main()
-{ 
-    int n, k;
+{
+    int n, k; 
     scanf("%d %d", &n, &k);
     int arr[n];
     for (int i = 0; i < n; i++)

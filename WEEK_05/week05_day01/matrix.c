@@ -1,7 +1,7 @@
 #include <stdio.h>
  
 int main()
-{
+{ 
     int row, col;
     scanf("%d", &row);
     col = row;

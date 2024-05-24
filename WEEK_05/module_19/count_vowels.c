@@ -2,7 +2,7 @@
 #include <string.h>
  
 // You Must Understand: How Return count_vowels(arr, i+1)+1 works
-
+  
 int count_vowels(char arr[], int i)
 {
     if (arr[i] == '\0')
