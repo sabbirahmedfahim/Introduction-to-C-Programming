@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    int n;
+    int n; 
     scanf("%d", &n);
     int spaceCount = 0;
     // int starCount = n-2;
