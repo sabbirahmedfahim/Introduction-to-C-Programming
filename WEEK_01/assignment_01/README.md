@@ -1,1 +1,0 @@
-- [HackerRank Contest](https://www.hackerrank.com/contests/assignment-01-a-introduction-to-c-programming-a-batch-05/challenges)
